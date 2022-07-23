@@ -1,0 +1,2 @@
+Progetto e documentazione di un applicativo gestionale per istituti scolastici svolto in maniera iterativa .
+Nella cartella "Documentazione" sono presenti le immaggini e i file astah delle varie iterazione e del progetto completo, inoltre è presente il documento finale. Nella cartelle "ScuolaGO" sono presenti i file del codice java. ScuolaGo è un progetto eclipse, pertanto può essere avviato dall'IDE tramite file "Start.java" nel package "GUI", oppure utilizzando l'eseguibile jar "ScuolaGo.jar".
